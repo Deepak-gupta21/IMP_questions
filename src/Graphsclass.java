@@ -1,3 +1,12 @@
+Sample Input :
+1 1 0
+0 0 1
+1 0 1
+Sample Output :
+2
+
+Sollution:-
+
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
